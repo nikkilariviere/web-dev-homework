@@ -1,2 +1,3 @@
 # Nikki Lariviere's Web-Dev-Homework Repo
-Repository for My Intro Web-Dev Homework
+
+I'm Nikki Lariviere and I'm a sophomore marketing major from Colville, Washington
