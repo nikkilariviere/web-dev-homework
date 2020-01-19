@@ -1,1 +1,4 @@
-
+The web is different than the internet in that the internet is a much larger global network of millions of networks, while the web is a tool used to access the internet.
+The internet uses a network of computers called routers that move packets from their source to their destination.
+A directory is a way to organize files. The files are contained within a specific directory.
+Using a VCS is beneficial because many people are able to work and collaborate together at any time, with the option to combine all the changes made into a common version.
